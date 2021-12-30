@@ -1,0 +1,136 @@
+{
+  "style": { "colors": { "background": "#ffffff", "text": "#000000" } },
+  "layout": {
+    "dimensions": { "width": 600, "height": 600 },
+    "containers": [
+      {
+        "media": {
+          "dimensions": { "width": 320, "height": 540 },
+          "location": { "x": 10, "y": 10 },
+          "type": "drawing",
+          "cropping": "center"
+        },
+        "textBox": { "orientation": "bottom", "width": 40 }
+      },
+      {
+        "media": {
+          "dimensions": { "width": 100, "height": 100 },
+          "location": { "x": 340, "y": 10 },
+          "type": "product",
+          "cropping": "top"
+        },
+        "textBox": { "orientation": "right", "width": 150 }
+      },
+      {
+        "media": {
+          "dimensions": { "width": 100, "height": 100 },
+          "location": { "x": 340, "y": 120 },
+          "type": "product",
+          "cropping": "top"
+        },
+        "textBox": { "orientation": "right", "width": 150 }
+      },
+      {
+        "media": {
+          "dimensions": { "width": 100, "height": 100 },
+          "location": { "x": 340, "y": 230 },
+          "type": "product",
+          "cropping": "top"
+        },
+        "textBox": { "orientation": "right", "width": 150 }
+      },
+      {
+        "media": {
+          "dimensions": { "width": 100, "height": 100 },
+          "location": { "x": 340, "y": 340 },
+          "type": "product",
+          "cropping": "top"
+        },
+        "textBox": { "orientation": "right", "width": 150 }
+      },
+      {
+        "media": {
+          "dimensions": { "width": 100, "height": 100 },
+          "location": { "x": 340, "y": 450 },
+          "type": "product",
+          "cropping": "top"
+        },
+        "textBox": { "orientation": "right", "width": 150 }
+      }
+    ]
+  },
+  "content": {
+    "sheetInfo": {},
+    "drawings": [
+      {
+        "media": {
+          "type": "webImage",
+          "data": "https://images.pexels.com/photos/2194261/pexels-photo-2194261.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        },
+        "drawingInfo": { "title": "Example Living Room", "scale": "No Scale" }
+      }
+    ],
+    "products": [
+      {
+        "media": {
+          "type": "webImage",
+          "data": "https://images.pexels.com/photos/20787/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        },
+        "productInfo": {
+          "title": "Furniture",
+          "name": "Name of Object",
+          "description": "Lorem ipsum dalem edit",
+          "vendor": "Vendor or simular"
+        }
+      },
+      {
+        "media": {
+          "type": "webImage",
+          "data": "https://images.pexels.com/photos/2061057/pexels-photo-2061057.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        },
+        "productInfo": {
+          "title": "Furniture",
+          "name": "Name of Object",
+          "description": "Lorem ipsum dalem edit",
+          "vendor": "Vendor or simular"
+        }
+      },
+      {
+        "media": {
+          "type": "webImage",
+          "data": "https://images.pexels.com/photos/1056251/pexels-photo-1056251.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        },
+        "productInfo": {
+          "title": "Furniture",
+          "name": "Name of Object",
+          "description": "Lorem ipsum dalem",
+          "vendor": "Vendor or simular"
+        }
+      },
+      {
+        "media": {
+          "type": "webImage",
+          "data": "https://images.pexels.com/photos/104827/cat-pet-animal-domestic-104827.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        },
+        "productInfo": {
+          "title": "Furniture",
+          "name": "Name of Object",
+          "description": "Lorem ipsum dalem edit",
+          "vendor": "Vendor or simular"
+        }
+      },
+      {
+        "media": {
+          "type": "webImage",
+          "data": "https://images.pexels.com/photos/730896/pexels-photo-730896.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        },
+        "productInfo": {
+          "title": "Furniture",
+          "name": "Name of Object",
+          "description": "Lorem ipsum dalem edit",
+          "vendor": "Vendor or simular"
+        }
+      }
+    ]
+  }
+}
