@@ -103,7 +103,7 @@ const debugSheet = () => new Sheet(
 			new Drawing(
 				new Media(
 					MediaType.webImage,
-					"sheets/default/image/0.jpg",
+					"boards/default/image/0.jpg",
 				),
 				new DrawingInfo(
 					"Example Living Room",
@@ -115,7 +115,7 @@ const debugSheet = () => new Sheet(
 			new Product(
 				new Media(
 					MediaType.webImage,
-					"sheets/default/image/1.jpg"
+					"boards/default/image/1.jpg"
 				),
 				new ProductInfo(
 					"Furniture",
@@ -127,7 +127,7 @@ const debugSheet = () => new Sheet(
 			new Product(
 				new Media(
 					MediaType.webImage,
-					"sheets/default/image/2.jpg"
+					"boards/default/image/2.jpg"
 				),
 				new ProductInfo(
 					"Furniture",
@@ -139,7 +139,7 @@ const debugSheet = () => new Sheet(
 			new Product(
 				new Media(
 					MediaType.webImage,
-					"sheets/default/image/3.jpg"
+					"boards/default/image/3.jpg"
 				),
 				new ProductInfo(
 					"Furniture",
@@ -151,7 +151,7 @@ const debugSheet = () => new Sheet(
 			new Product(
 				new Media(
 					MediaType.webImage,
-					"sheets/default/image/4.jpg"
+					"boards/default/image/4.jpg"
 				),
 				new ProductInfo(
 					"Furniture",
@@ -163,7 +163,7 @@ const debugSheet = () => new Sheet(
 			new Product(
 				new Media(
 					MediaType.webImage,
-					"sheets/default/image/5.jpg"
+					"boards/default/image/5.jpg"
 				),
 				new ProductInfo(
 					"Furniture",
